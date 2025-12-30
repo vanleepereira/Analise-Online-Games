@@ -1,0 +1,51 @@
+Player_ID,Age,Gender,Game_Name,Genre,Daily_Play_Time_Hours,Skill_Level,Matches_Played_Per_Week,In_Game_Purchases,Player_Rating
+PLAYER001,27,Female,Fortnite,Shooter,5.4,Beginner,39,Yes,1
+PLAYER002,23,Male,Call of Duty,Strategy,5.0,Intermediate,33,Yes,3
+PLAYER003,21,Female,Valorant,Battle Royale,2.7,Advanced,15,Yes,2
+PLAYER004,25,Male,PUBG,Battle Royale,3.9,Advanced,2,No,3
+PLAYER005,21,Male,Fortnite,Strategy,5.9,Beginner,33,Yes,1
+PLAYER006,21,Male,PUBG,Battle Royale,5.5,Intermediate,36,Yes,4
+PLAYER007,39,Male,Call of Duty,Action,1.1,Beginner,29,Yes,4
+PLAYER008,30,Male,Free Fire,Battle Royale,0.8,Intermediate,29,No,3
+PLAYER009,36,Male,Free Fire,Battle Royale,1.7,Beginner,32,No,4
+PLAYER010,37,Female,Call of Duty,Shooter,5.9,Advanced,39,Yes,5
+PLAYER011,30,Female,PUBG,Battle Royale,1.9,Beginner,9,Yes,2
+PLAYER012,28,Male,Fortnite,Action,2.6,Beginner,24,Yes,4
+PLAYER013,29,Female,Fortnite,Battle Royale,2.4,Beginner,18,Yes,3
+PLAYER014,14,Male,Call of Duty,Strategy,1.5,Beginner,2,Yes,5
+PLAYER015,33,Female,Fortnite,Action,4.7,Intermediate,24,No,5
+PLAYER016,40,Female,PUBG,Shooter,5.8,Advanced,8,No,4
+PLAYER017,18,Male,PUBG,Battle Royale,1.3,Intermediate,20,No,4
+PLAYER018,38,Female,Valorant,Action,3.7,Intermediate,36,Yes,2
+PLAYER019,16,Male,Call of Duty,Battle Royale,4.1,Intermediate,1,Yes,4
+PLAYER020,13,Male,Free Fire,Shooter,3.3,Beginner,23,No,4
+PLAYER021,22,Female,PUBG,Action,1.4,Intermediate,25,No,1
+PLAYER022,40,Male,Call of Duty,Battle Royale,2.4,Advanced,4,Yes,4
+PLAYER023,27,Male,Call of Duty,Action,5.2,Intermediate,36,No,3
+PLAYER024,38,Male,Call of Duty,Shooter,5.8,Beginner,13,Yes,3
+PLAYER025,23,Female,Call of Duty,Battle Royale,5.4,Intermediate,33,Yes,1
+PLAYER026,39,Male,Fortnite,Action,0.8,Intermediate,1,Yes,1
+PLAYER027,22,Male,PUBG,Battle Royale,2.7,Advanced,15,Yes,3
+PLAYER028,19,Female,Free Fire,Action,1.3,Beginner,9,No,4
+PLAYER029,30,Male,Free Fire,Action,1.9,Advanced,13,Yes,2
+PLAYER030,38,Male,Valorant,Action,2.6,Intermediate,9,No,4
+PLAYER031,36,Female,Fortnite,Battle Royale,0.6,Intermediate,37,No,1
+PLAYER032,23,Female,Valorant,Shooter,0.9,Beginner,31,Yes,4
+PLAYER033,25,Female,Fortnite,Battle Royale,1.0,Intermediate,15,Yes,4
+PLAYER034,28,Female,Valorant,Battle Royale,1.0,Intermediate,3,Yes,1
+PLAYER035,16,Male,PUBG,Action,4.8,Advanced,2,No,5
+PLAYER036,40,Male,PUBG,Shooter,4.1,Intermediate,3,No,5
+PLAYER037,36,Male,PUBG,Strategy,5.9,Advanced,32,Yes,1
+PLAYER038,29,Female,PUBG,Shooter,5.0,Advanced,28,Yes,4
+PLAYER039,28,Male,Call of Duty,Strategy,4.7,Beginner,39,Yes,3
+PLAYER040,34,Female,Call of Duty,Strategy,4.7,Advanced,26,No,2
+PLAYER041,27,Female,Valorant,Action,3.9,Advanced,28,No,3
+PLAYER042,32,Male,PUBG,Strategy,5.1,Advanced,17,No,2
+PLAYER043,28,Female,PUBG,Shooter,2.2,Intermediate,23,Yes,3
+PLAYER044,36,Female,Valorant,Action,4.7,Intermediate,2,No,3
+PLAYER045,20,Female,Call of Duty,Action,1.1,Intermediate,4,Yes,2
+PLAYER046,21,Male,Fortnite,Action,3.7,Intermediate,24,No,3
+PLAYER047,35,Male,Call of Duty,Strategy,3.3,Beginner,27,Yes,4
+PLAYER048,16,Female,Valorant,Battle Royale,5.0,Beginner,14,Yes,4
+PLAYER049,39,Female,Free Fire,Battle Royale,3.6,Beginner,35,Yes,1
+PLAYER050,27,Female,PUBG,Action,1.4,Advanced,20,Yes,5
